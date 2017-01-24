@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 220642 */
+    src: url('//at.alicdn.com/t/font_j8wi1gctqaxajor.eot');
+    src: url('//at.alicdn.com/t/font_j8wi1gctqaxajor.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_j8wi1gctqaxajor.woff') format('woff'),
+    url('//at.alicdn.com/t/font_j8wi1gctqaxajor.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_j8wi1gctqaxajor.svg#iconfont') format('svg');
+}
+
+.icon-collect{
+    font-family:"iconfont";
+    font-size:16px;
+    font-style:normal;
+    font-weight:normal;
+    font-variant:normal;
+    color: #ff6a6e;
+    text-transform:none;
+    line-height:1;
+    position:relative;
+    -webkit-font-smoothing:antialiased;
+}
+
+.icon-collect-empty{
+    font-family:"iconfont";
+    font-size:20px;
+    font-style:normal;
+    font-weight:bold;
+    font-variant:normal;
+    color: #797979;
+    text-transform:none;
+    line-height:1;
+    position:relative;
+    -webkit-font-smoothing:antialiased;
+    text-align:center;
+}
+
+.icon-back{
+    font-family:"iconfont";
+    font-size:16px;
+    font-style:normal;
+    font-weight:normal;
+    font-variant:normal;
+    color:#bfbfbf;
+    text-transform:none;
+    line-height:1;
+    position:relative;
+    -webkit-font-smoothing:antialiased;
+}
+
+.icon-omit{
+    font-family:"iconfont";
+    font-size:20px;
+    font-style:normal;
+    font-weight:normal;
+    font-variant:normal;
+    color:#000;
+    text-transform:none;
+    line-height:1;
+    position:relative;
+    -webkit-font-smoothing:antialiased;
+}

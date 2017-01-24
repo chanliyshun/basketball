@@ -1,0 +1,26 @@
+body,p,h1,h2,h3,h4,h5,h6,ul{
+    margin:0;
+    padding:0;
+    outline:0;
+}
+
+body{
+    line-height:1.5;
+    background-color:#f2f2f2;
+    font-family: "Helvetica Neue",Helvetica,STHeiTi,sans-serif;
+    font-size:12px;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    font-weight:normal;
+    font-family:"Helvetica Neue",Helvetica,STHeiTi,sans-serif;
+}
+
+a:link{
+    text-decoration:none;
+}
+
+button{
+    background-color:initial;
+}
+
