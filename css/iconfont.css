@@ -4,11 +4,11 @@
     src: url('//at.alicdn.com/t/font_ibkanz53dmg6i529.eot?#iefix') format('embedded-opentype'),
     url('//at.alicdn.com/t/font_ibkanz53dmg6i529.svg#iconfont') format('svg'),
     url('//at.alicdn.com/t/font_ibkanz53dmg6i529.woff') format('woff'),
-    url('//at.alicdn.com/t/font_ibkanz53dmg6i529.ttf') format('truetype');
+    url(../font/font_ibkanz53dmg6i529.ttf) format('truetype');
 }
 
 .icon-collect{
-    font-family:"iconfont";
+    font-family:"iconfont"!important;
     font-size:16px;
     font-style:normal;
     font-weight:normal;
